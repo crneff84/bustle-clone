@@ -1,0 +1,25 @@
+body{
+  background-color: beige;
+}
+.row {
+  text-align: center;
+}
+.specialArticles img {
+  height: 15em;
+  width: 15em;
+}
+.spacer {
+  width: 100%;
+  height: 5em;
+  background-color: lightblue;
+}
+.panel {
+  height: 340px;
+  width: 100%;
+  margin-top: 15px;
+}
+.average{
+  float: left;
+  height: 20em;
+  margin: 20px;
+}

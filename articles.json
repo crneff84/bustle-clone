@@ -1,0 +1,47 @@
+{
+  "articles": [{
+      "content": "Ustafa mukjaffa grumps buytrouk.",
+      "author": "Gandhi",
+      "title": "Ustafa",
+      "date": "2016-10-24",
+      "image": "http://www.history.co.uk/sites/default/files/bios/mahatmagandhi225.jpg",
+      "ranking": "1",
+      "banner": true
+    },
+    {
+      "content": "Poltuk crekgren defrguout pluyref celtic boupurp.",
+      "author": "Gandalf",
+      "title": "High Wizard's Spell",
+      "date": "2016-10-24",
+      "image": "http://static2.hypable.com/wp-content/uploads/2014/10/the-hobbit-the-battle-of-the-five-armies-gandalf-poster-feature.jpg",
+      "ranking": "1",
+      "banner": false
+  }],
+  "specialarticles": [{
+      "content": "lorem ipsom",
+      "author": "peter petigrew",
+      "title": "Lorem Ipdaom",
+      "date": "2016-10-25",
+      "image": "https://res.cloudinary.com/beamly/image/upload/s--NXthYBsT--/c_fill,g_face,q_70,w_479/f_jpg/v1/news/sites/6/2015/01/Timothy-Spall-Peter-Pettigrew-3.jpg",
+      "ranking": "3",
+      "banner": false
+    },
+    {
+      "content": "Paragraphical will soon be a word if it is not already. Highfalutin darnd tutin.",
+      "author": "Never Never Land Flyer Man",
+      "title": "Paragraphical",
+      "date": "2016-10-24",
+      "image": "https://courtingmadness.files.wordpress.com/2013/03/peter_pan_tree_by_crorien.jpg",
+      "ranking": "3",
+      "banner": false
+    },
+    {
+      "content": "Putin said some highfalutin stuff today next to his nuke booten. He loves a dead tiger.",
+      "author": "Chase Nerf",
+      "title": "Stuff Today",
+      "date": "2000-10-24",
+      "image": "http://a.abcnews.com/images/International/Gty_tiger_putin_mm_150715_4x3_992.jpg",
+      "ranking": "3",
+      "banner": false
+    }]
+}

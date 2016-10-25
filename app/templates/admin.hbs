@@ -1,0 +1,12 @@
+<div class="spacer">
+  {{#link-to 'index'}}Home{{/link-to}}
+</div>
+<div class="row">
+  {{#each specialarticles as |specialArticle|}}
+    {{admin-list article=specialArticle destroyArticle="destroyArticle" updateArticle="updateArticle"}}
+  {{/each}}
+  {{#each articles as |article|}}
+    {{admin-list article=article destroyArticle="destroyArticle" updateArticle="updateArticle"}}
+  {{/each}}
+  {{new-article makeNewArticle="makeNewArticle"}}
+</div>
